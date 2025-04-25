@@ -83,6 +83,8 @@ streamlit run Green_Score_Predictor.py
 
 Once the app is running, it will open a new page in your browser at `http://localhost:8501`. You can now start using the **Green Score Predictor**!
 
+![image](https://github.com/user-attachments/assets/8fd654f7-2872-4487-86e6-c0f59a835e31)
+
 ---
 
 ## How It Works
