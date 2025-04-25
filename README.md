@@ -27,9 +27,15 @@ The **Green Score Predictor** outputs the following results:
   - Energy-efficient model alternatives (e.g., switching from BERT to DistilBERT)
   - Hardware usage optimizations
 
+![image](https://github.com/user-attachments/assets/47304364-3b9d-4ccf-b5b4-fcd3f047f5e6)
+![image](https://github.com/user-attachments/assets/eb9fb225-4307-472b-9fc0-ad3bc152c650)
+![image](https://github.com/user-attachments/assets/6cdbe02d-4822-4780-a539-0d040995fed8)
+![image](https://github.com/user-attachments/assets/e894030f-f31c-4b75-98c7-f21e3136c2b2)
+
+
 ---
 
-## Target Customers
+## Target Users
 
 - **AI Researchers & Engineers**: Who want to reduce the environmental impact of their machine learning projects.
 - **AI Practitioners & Developers**: Developers who want an easy way to estimate the carbon footprint of their models.
