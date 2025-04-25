@@ -1,11 +1,14 @@
+# Green Score Predictor - Requirements
 
-```
-streamlit==1.16.0
-pandas==1.5.3
-codecarbon==2.2.2
-```
+This project requires the following dependencies:
 
-### Explanation:
-- **`streamlit`**: For building the interactive web app.
-- **`pandas`**: For data handling and any necessary manipulation (e.g., displaying results in tables).
-- **`codecarbon`**: For calculating carbon emissions related to machine learning model training.
+- **streamlit**: For building the interactive web app.
+- **pandas**: For data handling and displaying results in tables.
+- **codecarbon**: For calculating carbon emissions related to machine learning model training.
+
+### Installation
+
+To install the necessary dependencies, run the following:
+
+```bash
+pip install -r requirements.txt
